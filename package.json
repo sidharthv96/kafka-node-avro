@@ -1,6 +1,6 @@
 {
   "name": "kafka-node-avro-ssl",
-  "version": "0.0.2-0",
+  "version": "0.0.2",
   "description": "kafka avro serialization",
   "main": "index.js",
   "author": "Sidharth V",
