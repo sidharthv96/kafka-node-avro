@@ -61,7 +61,7 @@ This package will not fullfill the promise if is **not** able to :
 - Build the kafka producer
 
 ```
-const KafkaAvro = require('kafka-node-avro');
+const KafkaAvro = require('kafka-node-sidv-avro');
 const Settings  = {
   "kafka" : {
     "kafkaHost" : "localhost:9092"
